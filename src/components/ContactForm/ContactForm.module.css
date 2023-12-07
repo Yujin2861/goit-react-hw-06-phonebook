@@ -22,7 +22,6 @@ label {
   border: 1px solid transparent;
   outline: none;
   border-radius: 50px;
-  box-shadow: inset 6px 6px 6px #a0b5cb, inset -6px -6px 6px white;
   text-indent: 20px;
 }
 
@@ -35,7 +34,6 @@ label {
   border-radius: 50px;
   color: black;
   cursor: pointer;
-  box-shadow: 6px 6px 6px #cbced1, -2px -2px 18px white;
   padding: 0 20px;
   transition: all 250ms ease-in-out;
 }

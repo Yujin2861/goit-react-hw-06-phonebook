@@ -9,7 +9,6 @@
   color: black;
   border-radius: 20px;
   cursor: pointer;
-  box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
   padding-left: 10px;
   transition: all 250ms ease-in-out;
   outline: none;
